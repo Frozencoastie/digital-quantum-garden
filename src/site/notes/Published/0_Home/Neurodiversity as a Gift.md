@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/published/0-home/neurodiversity-as-a-gift/","noteIcon":"","updated":"2026-01-02T16:11:11.765-09:00"}
+{"dg-publish":true,"permalink":"/published/0-home/neurodiversity-as-a-gift/","noteIcon":"","updated":"2026-01-02T21:33:02.209-09:00"}
 ---
 
 
@@ -70,7 +70,7 @@ This reframing changes everything:
 
 ## Related Notes
 
-- [[Brandi\|Brandi]] - My spouse's journey understanding my neurodivergence
+- [[My_spouse's\|My_spouse's]] - journey understanding my neurodivergence
 - [[Teaching as a Neurodivergent Professor\|Teaching as a Neurodivergent Professor]]
 - [[Why I Stopped Masking\|Why I Stopped Masking]]
 

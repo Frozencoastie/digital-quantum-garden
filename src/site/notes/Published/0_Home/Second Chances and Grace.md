@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/published/0-home/second-chances-and-grace/","noteIcon":"","updated":"2026-01-02T16:10:48.654-09:00"}
+{"dg-publish":true,"permalink":"/published/0-home/second-chances-and-grace/","noteIcon":"","updated":"2026-01-02T21:35:25.997-09:00"}
 ---
-
 
 # Second Chances and Grace
 
@@ -9,7 +8,7 @@ Midlife has taught me that transformation isn't linear, forgiveness isn't finite
 
 ## What Changed
 
-Around age 45, several things converged:
+Around my late 40's, several things converged:
 - [[Published/0_Home/Neurodiversity as a Gift\|ADHD diagnosis]]
 - Career transitions
 - Realizing I'd spent decades performing rather than being
@@ -87,46 +86,4 @@ Related: [[Imperfect Environmentalism\|Imperfect Environmentalism]], [[The High-
 ---
 
 *This note is a work in progress. Like me.*
-```
 
----
-
-# How the Backlinking Works
-
-## When You Create These Notes
-
-1. **Every `[[double bracket link]]` becomes clickable**
-2. **Links work BEFORE you create the target note** (shows as a different color)
-3. **When you click a link, it takes you to that note**
-4. **Each note automatically shows "backlinks"** - which other notes link TO it
-
-## Example Backlink Flow
-
-**You're reading:** "Neurodiversity as a Gift"
-
-**At the bottom, you see backlinks section:**
-```
-Notes linking to this page:
-- Welcome (homepage)
-- AI Ethics and Human Flourishing
-- Second Chances and Grace
-- Sustainable Living in Alaska
-```
-
-**This happens automatically!** You don't manually create backlinks.
-
-## The Graph View
-
-When you enable graph view in your settings, visitors see a visual representation:
-```
-              [Welcome]
-                  |
-      +-----------+-----------+----------+
-      |           |           |          |
-  [Sustainable] [AI Ethics] [Neuro-   [Second
-   Living]                   diversity] Chances]
-      |           |           |          |
-      +-----------+-----------+----------+
-                  |
-          [Everything is
-           Figureoutable]

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/published/0-home/ai-ethics-and-human-flourishing/","noteIcon":"","updated":"2026-01-02T16:11:58.590-09:00"}
+{"dg-publish":true,"permalink":"/published/0-home/ai-ethics-and-human-flourishing/","noteIcon":"","updated":"2026-01-02T21:34:33.787-09:00"}
 ---
-
 
 # AI Ethics and Human Flourishing
 
