@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/published/neurodiversity-as-a-gift/","noteIcon":"","updated":"2026-01-02T15:39:54.732-09:00"}
+{"dg-publish":true,"permalink":"/published/neurodiversity-as-a-gift/","noteIcon":"","updated":"2026-01-02T16:11:11.765-09:00"}
 ---
+
 
 # Neurodiversity as a Gift
 
@@ -27,7 +28,7 @@ Learning to stop masking, stop apologizing, stop trying to fit neurotypical patt
 
 **Hyperfocus**: When something catches my interest, I can dive deeper than most people think to go. This digital garden? Built in a hyperfocus sprint.
 
-**Pattern recognition**: My brain makes connections across disparate domains. See how [[AI Ethics and Human Flourishing\|AI Ethics and Human Flourishing]] links to [[Sustainable Living in Alaska\|Sustainable Living in Alaska]]? That's ADHD thinking.
+**Pattern recognition**: My brain makes connections across disparate domains. See how [[Published/AI Ethics and Human Flourishing\|AI Ethics and Human Flourishing]] links to [[Published/Sustainable Living in Alaska\|Sustainable Living in Alaska]]? That's ADHD thinking.
 
 **Crisis excellence**: I'm terrifyingly good in emergencies. Normal? That's where I struggle.
 
@@ -37,7 +38,7 @@ Learning to stop masking, stop apologizing, stop trying to fit neurotypical patt
 
 **Executive dysfunction**: Starting tasks feels like pushing a boulder uphill.
 
-**Rejection sensitivity**: Criticism hits like a physical blow. Working through this with [[Second Chances and Grace\|grace frameworks]].
+**Rejection sensitivity**: Criticism hits like a physical blow. Working through this with [[Published/Second Chances and Grace\|grace frameworks]].
 
 **Working memory issues**: I've developed entire systems to compensate (hence this external brain called a digital garden).
 
@@ -57,9 +58,9 @@ Calling it a "gift" doesn't mean it's easy. It means:
 This reframing changes everything:
 
 - How I structure work (see: [[Obsidian as ADHD Accommodation\|Obsidian as ADHD Accommodation]])
-- How I think about [[AI Ethics and Human Flourishing\|AI tools]]
+- How I think about [[Published/AI Ethics and Human Flourishing\|AI tools]]
 - Why [[Everything is Figureoutable\|Everything is Figureoutable]] resonates so deeply
-- How I'm building [[Sustainable Living in Alaska\|sustainable systems]]
+- How I'm building [[Published/Sustainable Living in Alaska\|sustainable systems]]
 
 ## Resources That Helped
 

@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/published/homepage/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-01-02T15:56:16.705-09:00"}
+{"dg-publish":true,"permalink":"/published/homepage/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-01-02T16:09:50.099-09:00"}
 ---
 
----
-dg-publish: true
-dg-home: true
+
 ---
 ![AKMorningCoffee2025Logo1.png|Alaska Morning Coffee|700](/img/user/Published/attachments/AKMorningCoffee2025Logo1.png)
 # Welcome to Alaska Morning Coffee ☕
@@ -19,10 +17,10 @@ This is my space for thinking out loud about things that matter. My notes are al
 
 I'm particularly fascinated by how we can live more intentionally in a complex world:
 
-- **[[Sustainable Living in Alaska\|Sustainable Living in Alaska]]** - What it means to build a life aligned with the land
-- **[[AI Ethics and Human Flourishing\|AI Ethics and Human Flourishing]]** - Technology that serves people, not profits
+- **[[Published/Sustainable Living in Alaska\|Sustainable Living in Alaska]]** - What it means to build a life aligned with the land
+- **[[Published/AI Ethics and Human Flourishing\|AI Ethics and Human Flourishing]]** - Technology that serves people, not profits
 - **[[Published/Neurodiversity as a Gift\|Neurodiversity as a Gift]]** - Reframing and normalizing neurodiversity to and different ways of thinking
-- **[[Second Chances and Grace\|Second Chances and Grace]]** - On transformation, forgiveness, and becoming
+- **[[Published/Second Chances and Grace\|Second Chances and Grace]]** - On transformation, forgiveness, and becoming
 
 ### Recent Thoughts
 
