@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/published/sustainable-living-in-alaska/","noteIcon":"","updated":"2026-01-02T16:12:17.150-09:00"}
+{"dg-publish":true,"permalink":"/published/sustainable-living-in-alaska/","noteIcon":"","updated":"2026-01-02T16:18:57.079-09:00"}
 ---
 
 
 # Sustainable Living in Alaska
 
 Living sustainably in Alaska isn't about importing Southern California's solar-panel aesthetic. It's about understanding place, respecting limits, and building resilience in a landscape that doesn't forgive shortcuts.
-
+>[!note]
+>If we choose simplicity then such be our lives
+>
 ## What Sustainability Means Here
 
 In a state where:

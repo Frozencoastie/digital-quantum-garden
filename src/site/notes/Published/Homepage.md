@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/published/homepage/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-01-02T16:09:50.099-09:00"}
+{"dg-publish":true,"permalink":"/published/homepage/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-01-02T16:16:37.971-09:00"}
 ---
 
 
@@ -19,7 +19,7 @@ I'm particularly fascinated by how we can live more intentionally in a complex w
 
 - **[[Published/Sustainable Living in Alaska\|Sustainable Living in Alaska]]** - What it means to build a life aligned with the land
 - **[[Published/AI Ethics and Human Flourishing\|AI Ethics and Human Flourishing]]** - Technology that serves people, not profits
-- **[[Published/Neurodiversity as a Gift\|Neurodiversity as a Gift]]** - Reframing and normalizing neurodiversity to and different ways of thinking
+- **[[Published/Neurodiversity as a Gift\|Neurodiversity as a Gift]]** - Reframing neurodiversity and different ways of thinking
 - **[[Published/Second Chances and Grace\|Second Chances and Grace]]** - On transformation, forgiveness, and becoming
 
 ### Recent Thoughts
@@ -30,7 +30,7 @@ I'm particularly fascinated by how we can live more intentionally in a complex w
 
 ## About This Garden
 
-Hi, I'm Jeff, living in Anchorage with my spouse [[Brandi\|Brandi]]. After years of hiding parts of myself, I'm learning to show up authentically—neurodiversity, midlife awakening, and all.
+Hi, I'm Jeff, living in Anchorage with my spouse Brandi. After years of hiding parts of myself, I'm learning to show up authentically—neurodiversity, midlife awakening, and all.
 
 This garden is my re-emergence into visibility. Welcome. 🌱
 
