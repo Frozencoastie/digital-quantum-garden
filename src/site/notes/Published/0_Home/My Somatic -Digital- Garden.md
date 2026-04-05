@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/published/0-home/my-somatic-digital-garden/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-01-02T21:37:41.717-09:00"}
+{"dg-publish":true,"permalink":"/published/0-home/my-somatic-digital-garden/","tags":["gardenEntry"],"noteIcon":"","updated":"2026-04-05T14:14:39.155-08:00"}
 ---
 
 
@@ -17,10 +17,10 @@ This is my space for thinking out loud about things that matter. My notes are al
 
 I'm particularly fascinated by how we can live more intentionally in a complex world:
 
-- **[[Published/0_Home/Sustainable Living in Alaska\|Sustainable Living in Alaska]]** - What it means to build a life aligned with the land
-- **[[Published/0_Home/AI Ethics and Human Flourishing\|AI Ethics and Human Flourishing]]** - Technology that serves people, not profits
-- **[[Published/0_Home/Neurodiversity as a Gift\|Neurodiversity as a Gift]]** - Reframing neurodiversity and different ways of thinking
-- **[[Published/0_Home/Second Chances and Grace\|Second Chances and Grace]]** - On transformation, forgiveness, and becoming
+- **[[3_Retired/Sustainable Living in Alaska\|Sustainable Living in Alaska]]** - What it means to build a life aligned with the land
+- **[[3_Retired/AI Ethics and Human Flourishing\|AI Ethics and Human Flourishing]]** - Technology that serves people, not profits
+- **[[3_Retired/Neurodiversity as a Gift\|Neurodiversity as a Gift]]** - Reframing neurodiversity and different ways of thinking
+- **[[3_Retired/Second Chances and Grace\|Second Chances and Grace]]** - On transformation, forgiveness, and becoming
 
 ### Recent Thoughts
 
