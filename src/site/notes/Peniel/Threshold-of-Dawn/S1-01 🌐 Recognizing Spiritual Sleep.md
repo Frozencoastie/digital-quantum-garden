@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"peniel-r1-s01-recognizing-spiritual-sleep","permalink":"/peniel-r1-s01-recognizing-spiritual-sleep/","title":"Recognizing Spiritual Sleep: The Comfortable Prison","tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","bible-study","hebrews-4-12","spiritual-growth","awareness","sword-of-truth","peniel","realm-1"],"noteIcon":"","updated":"2026-06-17T08:43:48.231-08:00","dg-note-properties":{"title":"Recognizing Spiritual Sleep: The Comfortable Prison","description":"Before God's Word can transform you, you have to realize you've been sleeping. Most of us live on spiritual autopilot without knowing it.","date":"2026-02-18","series":"The Sword of Truth","seriesOrder":1,"tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","bible-study","hebrews-4-12","spiritual-growth","awareness","sword-of-truth","peniel","realm-1"],"cssclasses":["sword-session"],"author":"Jeff Estes","status":"Published","land":"Peniel","realm":"Threshold of Dawn","session-id":"S1-01","gift":"Awakened Ears","Conversation":"☯️ Sword of Truth","Project":"3-FULFILL/projects/sword-of-truth"}}
+{"dg-publish":true,"dg-permalink":"peniel-r1-s01-recognizing-spiritual-sleep","permalink":"/peniel-r1-s01-recognizing-spiritual-sleep/","title":"Recognizing Spiritual Sleep: The Comfortable Prison","tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","bible-study","hebrews-4-12","spiritual-growth","awareness","sword-of-truth","peniel","realm-1"],"noteIcon":"","updated":"2026-06-17T22:16:00.547-08:00","dg-note-properties":{"title":"Recognizing Spiritual Sleep: The Comfortable Prison","description":"Before God's Word can transform you, you have to realize you've been sleeping. Most of us live on spiritual autopilot without knowing it.","date":"2026-02-18","series":"The Sword of Truth","seriesOrder":1,"tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","bible-study","hebrews-4-12","spiritual-growth","awareness","sword-of-truth","peniel","realm-1"],"cssclasses":["sword-session"],"author":"Jeff Estes","status":"Published","land":"Peniel","realm":"Threshold of Dawn","session-id":"S1-01","gift":"Awakened Ears","Conversation":"☯️ Sword of Truth","Project":"3-FULFILL/projects/sword-of-truth"}}
 ---
 
 
 <div class="nav-breadcrumb">
 
-[← AMC Home](https://alaskamorningcoffee.com) · [⚔️ Quest Map](https://notes.alaskamorningcoffee.com) · [🏔️ Peniel](https://notes.alaskamorningcoffee.com/peniel/) · Threshold of Dawn
+[← AMC Home](https://alaskamorningcoffee.com) · [⚔️ Quest Map](https://notes.alaskamorningcoffee.com/sword-of-truth) · [🏔️ Peniel](https://notes.alaskamorningcoffee.com/peniel/) · Threshold of Dawn
 
 </div>
 
@@ -69,12 +69,12 @@ But first, you have to wake up.
 
 | | |
 |---|---|
-| **← Previous** | [⚔️ Start Your Journey](https://notes.alaskamorningcoffee.com) |
+| **← Previous** | [⚔️ Start Your Journey](https://notes.alaskamorningcoffee.com/sword-of-truth) |
 | **→ Next** | [[Peniel/Threshold-of-Dawn/S1-02 🌐 The Courage to See Reality\|The Courage to See Reality (S1-02)]] |
 | **Land** | [🏔️ Peniel](https://notes.alaskamorningcoffee.com/peniel/) |
-| **Quest Map** | [⚔️ The Sword of Truth](https://notes.alaskamorningcoffee.com) |
+| **Quest Map** | [⚔️ The Sword of Truth](https://notes.alaskamorningcoffee.com/sword-of-truth) |
 | **Home** | [☕ Alaska Morning Coffee](https://alaskamorningcoffee.com) |
-| **Garden** | [🌱 Quantum Garden](https://notes.alaskamorningcoffee.com) |
+| **Garden** | [🌱 Quantum Garden](https://notes.alaskamorningcoffee.com/sword-of-truth) |
 
 ---
 

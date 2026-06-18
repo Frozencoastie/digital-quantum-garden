@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"peniel-r1-s03-the-wake-up-call","permalink":"/peniel-r1-s03-the-wake-up-call/","title":"The Wake-Up Call: Crossing the Threshold","tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","bible-study","hebrews-4-12","spiritual-growth","surrender","threshold","sword-of-truth","peniel","realm-1"],"noteIcon":"","updated":"2026-06-17T08:43:48.236-08:00","dg-note-properties":{"title":"The Wake-Up Call: Crossing the Threshold","description":"The wake-up call has already been happening. God has been whispering all along. The question isn't whether He's speaking — it's whether you'll answer.","date":"2026-02-18","series":"The Sword of Truth","seriesOrder":3,"tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","bible-study","hebrews-4-12","spiritual-growth","surrender","threshold","sword-of-truth","peniel","realm-1"],"cssclasses":["sword-session"],"author":"Jeff Estes","status":"Published","land":"Peniel","realm":"Threshold of Dawn","session-id":"S1-03","gift":"The Division","Conversation":"☯️ Sword of Truth","Project":"3-FULFILL/projects/sword-of-truth"}}
+{"dg-publish":true,"dg-permalink":"peniel-r1-s03-the-wake-up-call","permalink":"/peniel-r1-s03-the-wake-up-call/","title":"The Wake-Up Call: Crossing the Threshold","tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","bible-study","hebrews-4-12","spiritual-growth","surrender","threshold","sword-of-truth","peniel","realm-1"],"noteIcon":"","updated":"2026-06-17T22:16:07.404-08:00","dg-note-properties":{"title":"The Wake-Up Call: Crossing the Threshold","description":"The wake-up call has already been happening. God has been whispering all along. The question isn't whether He's speaking — it's whether you'll answer.","date":"2026-02-18","series":"The Sword of Truth","seriesOrder":3,"tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","bible-study","hebrews-4-12","spiritual-growth","surrender","threshold","sword-of-truth","peniel","realm-1"],"cssclasses":["sword-session"],"author":"Jeff Estes","status":"Published","land":"Peniel","realm":"Threshold of Dawn","session-id":"S1-03","gift":"The Division","Conversation":"☯️ Sword of Truth","Project":"3-FULFILL/projects/sword-of-truth"}}
 ---
 
 
 <div class="nav-breadcrumb">
 
-[← AMC Home](https://alaskamorningcoffee.com) · [⚔️ Quest Map](https://notes.alaskamorningcoffee.com) · [🏔️ Peniel](https://notes.alaskamorningcoffee.com/peniel/) · Threshold of Dawn
+[← AMC Home](https://alaskamorningcoffee.com) · [⚔️ Quest Map](https://notes.alaskamorningcoffee.com/sword-of-truth) · [🏔️ Peniel](https://notes.alaskamorningcoffee.com/peniel/) · Threshold of Dawn
 
 </div>
 
@@ -72,9 +72,9 @@ The wake-up call has already been happening. The only question left is yours: "H
 | **← Previous** | [[Peniel/Threshold-of-Dawn/S1-02 🌐 The Courage to See Reality\|The Courage to See Reality (S1-02)]] |
 | **→ Next** | [[Peniel/Threshold-of-Dawn/S1-04 🌐 Truth as Living Force\|Truth as Living Force (S1-04)]] |
 | **Land** | [🏔️ Peniel](https://notes.alaskamorningcoffee.com/peniel/) |
-| **Quest Map** | [⚔️ The Sword of Truth](https://notes.alaskamorningcoffee.com) |
+| **Quest Map** | [⚔️ The Sword of Truth](https://notes.alaskamorningcoffee.com/sword-of-truth) |
 | **Home** | [☕ Alaska Morning Coffee](https://alaskamorningcoffee.com) |
-| **Garden** | [🌱 Quantum Garden](https://notes.alaskamorningcoffee.com) |
+| **Garden** | [🌱 Quantum Garden](https://notes.alaskamorningcoffee.com/sword-of-truth) |
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"peniel-r1-s02-the-courage-to-see-reality","permalink":"/peniel-r1-s02-the-courage-to-see-reality/","title":"The Courage to See Reality: The Walls We Cannot See","tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","bible-study","hebrews-4-12","spiritual-growth","self-awareness","courage","sword-of-truth","peniel","realm-1"],"noteIcon":"","updated":"2026-06-17T08:43:48.234-08:00","dg-note-properties":{"title":"The Courage to See Reality: The Walls We Cannot See","description":"You noticed the spiritual sleep. Now comes the harder part — naming the invisible walls that keep you there. It takes more courage than you think.","date":"2026-02-18","series":"The Sword of Truth","seriesOrder":2,"tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","bible-study","hebrews-4-12","spiritual-growth","self-awareness","courage","sword-of-truth","peniel","realm-1"],"cssclasses":["sword-session"],"author":"Jeff Estes","status":"Published","land":"Peniel","realm":"Threshold of Dawn","session-id":"S1-02","gift":"Awakened Ears","Conversation":"☯️ Sword of Truth","Project":"3-FULFILL/projects/sword-of-truth"}}
+{"dg-publish":true,"dg-permalink":"peniel-r1-s02-the-courage-to-see-reality","permalink":"/peniel-r1-s02-the-courage-to-see-reality/","title":"The Courage to See Reality: The Walls We Cannot See","tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","bible-study","hebrews-4-12","spiritual-growth","self-awareness","courage","sword-of-truth","peniel","realm-1"],"noteIcon":"","updated":"2026-06-17T22:16:07.031-08:00","dg-note-properties":{"title":"The Courage to See Reality: The Walls We Cannot See","description":"You noticed the spiritual sleep. Now comes the harder part — naming the invisible walls that keep you there. It takes more courage than you think.","date":"2026-02-18","series":"The Sword of Truth","seriesOrder":2,"tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","bible-study","hebrews-4-12","spiritual-growth","self-awareness","courage","sword-of-truth","peniel","realm-1"],"cssclasses":["sword-session"],"author":"Jeff Estes","status":"Published","land":"Peniel","realm":"Threshold of Dawn","session-id":"S1-02","gift":"Awakened Ears","Conversation":"☯️ Sword of Truth","Project":"3-FULFILL/projects/sword-of-truth"}}
 ---
 
 
 <div class="nav-breadcrumb">
 
-[← AMC Home](https://alaskamorningcoffee.com) · [⚔️ Quest Map](https://notes.alaskamorningcoffee.com) · [🏔️ Peniel](https://notes.alaskamorningcoffee.com/peniel/) · Threshold of Dawn
+[← AMC Home](https://alaskamorningcoffee.com) · [⚔️ Quest Map](https://notes.alaskamorningcoffee.com/sword-of-truth) · [🏔️ Peniel](https://notes.alaskamorningcoffee.com/peniel/) · Threshold of Dawn
 
 </div>
 
@@ -70,9 +70,9 @@ Next session, we cross the threshold — the moment where knowledge becomes enco
 | **← Previous** | [[Peniel/Threshold-of-Dawn/S1-01 🌐 Recognizing Spiritual Sleep\|Recognizing Spiritual Sleep (S1-01)]] |
 | **→ Next** | [[Peniel/Threshold-of-Dawn/S1-03 🌐 The Wake-Up Call\|The Wake-Up Call (S1-03)]] |
 | **Land** | [🏔️ Peniel](https://notes.alaskamorningcoffee.com/peniel/) |
-| **Quest Map** | [⚔️ The Sword of Truth](https://notes.alaskamorningcoffee.com) |
+| **Quest Map** | [⚔️ The Sword of Truth](https://notes.alaskamorningcoffee.com/sword-of-truth) |
 | **Home** | [☕ Alaska Morning Coffee](https://alaskamorningcoffee.com) |
-| **Garden** | [🌱 Quantum Garden](https://notes.alaskamorningcoffee.com) |
+| **Garden** | [🌱 Quantum Garden](https://notes.alaskamorningcoffee.com/sword-of-truth) |
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"peniel-r1-s06-embodied-truth","permalink":"/peniel-r1-s06-embodied-truth/","title":"Embodied Truth — When Knowing Becomes Walking","tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","embodied-truth","halakh","spiritual-practice","hebrews-4-12","walking-faith","transformation","sword-of-truth","peniel","realm-1"],"noteIcon":"","updated":"2026-06-17T08:43:48.246-08:00","dg-note-properties":{"title":"Embodied Truth — When Knowing Becomes Walking","description":"The climax of the Threshold of Dawn isn't another revelation — it's the walk home. What happens when the Word stops being something you study and becomes something you live?","date":"2026-04-30","series":"The Sword of Truth","seriesOrder":6,"tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","embodied-truth","halakh","spiritual-practice","hebrews-4-12","walking-faith","transformation","sword-of-truth","peniel","realm-1"],"cssclasses":["sword-session"],"author":"Jeff Estes","status":"Published","land":"Peniel","realm":"Threshold of Dawn","session-id":"S1-06","gift":"Halakh","excerpt":"The longest journey in faith isn't from doubt to belief. It's from believing to walking. The ancient Hebrews had a word for this — and it changes everything.","Conversation":"☯️ Sword of Truth","Project":"3-FULFILL/projects/sword-of-truth"}}
+{"dg-publish":true,"dg-permalink":"peniel-r1-s06-embodied-truth","permalink":"/peniel-r1-s06-embodied-truth/","title":"Embodied Truth — When Knowing Becomes Walking","tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","embodied-truth","halakh","spiritual-practice","hebrews-4-12","walking-faith","transformation","sword-of-truth","peniel","realm-1"],"noteIcon":"","updated":"2026-06-17T22:16:08.677-08:00","dg-note-properties":{"title":"Embodied Truth — When Knowing Becomes Walking","description":"The climax of the Threshold of Dawn isn't another revelation — it's the walk home. What happens when the Word stops being something you study and becomes something you live?","date":"2026-04-30","series":"The Sword of Truth","seriesOrder":6,"tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","embodied-truth","halakh","spiritual-practice","hebrews-4-12","walking-faith","transformation","sword-of-truth","peniel","realm-1"],"cssclasses":["sword-session"],"author":"Jeff Estes","status":"Published","land":"Peniel","realm":"Threshold of Dawn","session-id":"S1-06","gift":"Halakh","excerpt":"The longest journey in faith isn't from doubt to belief. It's from believing to walking. The ancient Hebrews had a word for this — and it changes everything.","Conversation":"☯️ Sword of Truth","Project":"3-FULFILL/projects/sword-of-truth"}}
 ---
 
 
 <div class="nav-breadcrumb">
 
-[← AMC Home](https://alaskamorningcoffee.com) · [⚔️ Quest Map](https://notes.alaskamorningcoffee.com) · [🏔️ Peniel](https://notes.alaskamorningcoffee.com/peniel/) · Threshold of Dawn
+[← AMC Home](https://alaskamorningcoffee.com) · [⚔️ Quest Map](https://notes.alaskamorningcoffee.com/sword-of-truth) · [🏔️ Peniel](https://notes.alaskamorningcoffee.com/peniel/) · Threshold of Dawn
 
 </div>
 
@@ -103,9 +103,9 @@ The valley awaits. Bring your walking shoes.
 | **← Previous** | [[Peniel/Threshold-of-Dawn/S1-05 🌐 From Information to Transformation\|From Information to Transformation (S1-05)]] |
 | **→ Next** | *Valley of Division — Realm 2 (coming)* |
 | **Land** | [🏔️ Peniel](https://notes.alaskamorningcoffee.com/peniel/) |
-| **Quest Map** | [⚔️ The Sword of Truth](https://notes.alaskamorningcoffee.com) |
+| **Quest Map** | [⚔️ The Sword of Truth](https://notes.alaskamorningcoffee.com/sword-of-truth) |
 | **Home** | [☕ Alaska Morning Coffee](https://alaskamorningcoffee.com) |
-| **Garden** | [🌱 Quantum Garden](https://notes.alaskamorningcoffee.com) |
+| **Garden** | [🌱 Quantum Garden](https://notes.alaskamorningcoffee.com/sword-of-truth) |
 
 ---
 

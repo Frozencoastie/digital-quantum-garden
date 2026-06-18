@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"peniel-r1-s04-truth-as-living-force","permalink":"/peniel-r1-s04-truth-as-living-force/","title":"Truth as Living Force: You Don't Read the Bible — The Bible Reads You","tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","living-word","hebrews","bible-study","transformation","sword-of-truth","peniel","realm-1"],"noteIcon":"","updated":"2026-06-17T08:43:48.240-08:00","dg-note-properties":{"title":"Truth as Living Force: You Don't Read the Bible — The Bible Reads You","description":"You don't read the Bible. The Bible reads you. The Greek word for 'alive' in Hebrews 4:12 doesn't mean relevant or useful. It means biologically alive.","date":"2026-02-15","series":"The Sword of Truth","seriesOrder":4,"tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","living-word","hebrews","bible-study","transformation","sword-of-truth","peniel","realm-1"],"cssclasses":["sword-session"],"author":"Jeff Estes","status":"Published","land":"Peniel","realm":"Threshold of Dawn","session-id":"S1-04","gift":"The Division","excerpt":"You don't read the Bible. The Bible reads you. The Greek word for 'alive' in Hebrews 4:12 doesn't mean relevant or useful. It means biologically alive.","Conversation":"☯️ Sword of Truth","Project":"3-FULFILL/projects/sword-of-truth"}}
+{"dg-publish":true,"dg-permalink":"peniel-r1-s04-truth-as-living-force","permalink":"/peniel-r1-s04-truth-as-living-force/","title":"Truth as Living Force: You Don't Read the Bible — The Bible Reads You","tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","living-word","hebrews","bible-study","transformation","sword-of-truth","peniel","realm-1"],"noteIcon":"","updated":"2026-06-17T22:16:07.685-08:00","dg-note-properties":{"title":"Truth as Living Force: You Don't Read the Bible — The Bible Reads You","description":"You don't read the Bible. The Bible reads you. The Greek word for 'alive' in Hebrews 4:12 doesn't mean relevant or useful. It means biologically alive.","date":"2026-02-15","series":"The Sword of Truth","seriesOrder":4,"tags":["3-FULFILL/projects/sword-of-truth","quest/sword-of-truth/peniel/threshold-of-dawn","garden/vineyard","living-word","hebrews","bible-study","transformation","sword-of-truth","peniel","realm-1"],"cssclasses":["sword-session"],"author":"Jeff Estes","status":"Published","land":"Peniel","realm":"Threshold of Dawn","session-id":"S1-04","gift":"The Division","excerpt":"You don't read the Bible. The Bible reads you. The Greek word for 'alive' in Hebrews 4:12 doesn't mean relevant or useful. It means biologically alive.","Conversation":"☯️ Sword of Truth","Project":"3-FULFILL/projects/sword-of-truth"}}
 ---
 
 
 <div class="nav-breadcrumb">
 
-[← AMC Home](https://alaskamorningcoffee.com) · [⚔️ Quest Map](https://notes.alaskamorningcoffee.com) · [🏔️ Peniel](https://notes.alaskamorningcoffee.com/peniel/) · Threshold of Dawn
+[← AMC Home](https://alaskamorningcoffee.com) · [⚔️ Quest Map](https://notes.alaskamorningcoffee.com/sword-of-truth) · [🏔️ Peniel](https://notes.alaskamorningcoffee.com/peniel/) · Threshold of Dawn
 
 </div>
 
@@ -90,9 +90,9 @@ The Word was alive before you opened the book. It was already at work before you
 | **← Previous** | [[Peniel/Threshold-of-Dawn/S1-03 🌐 The Wake-Up Call\|The Wake-Up Call (S1-03)]] |
 | **→ Next** | [[Peniel/Threshold-of-Dawn/S1-05 🌐 From Information to Transformation\|From Information to Transformation (S1-05)]] |
 | **Land** | [🏔️ Peniel](https://notes.alaskamorningcoffee.com/peniel/) |
-| **Quest Map** | [⚔️ The Sword of Truth](https://notes.alaskamorningcoffee.com) |
+| **Quest Map** | [⚔️ The Sword of Truth](https://notes.alaskamorningcoffee.com/sword-of-truth) |
 | **Home** | [☕ Alaska Morning Coffee](https://alaskamorningcoffee.com) |
-| **Garden** | [🌱 Quantum Garden](https://notes.alaskamorningcoffee.com) |
+| **Garden** | [🌱 Quantum Garden](https://notes.alaskamorningcoffee.com/sword-of-truth) |
 
 ---
 
